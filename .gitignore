@@ -1,0 +1,6 @@
+# Compiled Java bytecode and local build output
+*.class
+out/
+
+# Personal transaction records may contain private financial information
+data/transactions.csv
